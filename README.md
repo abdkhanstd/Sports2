@@ -74,4 +74,4 @@ Before you can run Train_IR_2.py, you need to extract features from the images w
 I did not upload the palyfield and view annotations intentionally. More details (code + results) will be added later.
 
 
-#### Special thanks to harvitronix for prviding a base code.
+#### Special thanks to harvitronix for providing the base code.
