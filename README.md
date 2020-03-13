@@ -39,7 +39,7 @@ SP-2 dataset contains above 23,000 video clips of various durations. These video
 
 #### Download Videos
 The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
-Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EsYRaX2slJ1EjrMe-7SdZeQBB8dh3Wo_bHJrSAu8o5Uj0g?e=0XNfJe)
+Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EgojmAd-CoxLqTWhDRFeN-kBH98O6d-hHhyTD8BM6KPH5A?e=MVe4AY)
 
 #### Statistical details about the dataset
 Here are some statistical details about the videos in the dataset.
