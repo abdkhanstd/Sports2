@@ -35,7 +35,7 @@ ________________________________________________________________________________
 SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer.
 
 
-### Download Videos
+#### Download Videos
 The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
 Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EsYRaX2slJ1EjrMe-7SdZeQBB8dh3Wo_bHJrSAu8o5Uj0g?e=0XNfJe)
 
