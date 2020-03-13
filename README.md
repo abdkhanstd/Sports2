@@ -16,7 +16,7 @@ Some may even say that UCF101 and HMDB51 have a sports category. Yes, it has a s
 
 
 #### What is the difference between amateur sports video and professionally broadcast videos?
-I won't explain amateur videos here, such videos usually have an “Egocentric vision” or “first-person vision”. See ![https://en.wikipedia.org/wiki/Egocentric_vision for details.] (https://en.wikipedia.org/wiki/Egocentric_vision)
+I won't explain amateur videos here, such videos usually have an “Egocentric vision” or “first-person vision”. See !https://en.wikipedia.org/wiki/Egocentric_vision for details.
 
 
 On the other hand, Broadcast sports videos capture the same point from multiple cameras at different angles and astonishingly none of the view stays for more than a couple of seconds. Scientifically speaking, there is no continuity within the frames. See the figure below and try to visualize it.
