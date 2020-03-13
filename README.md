@@ -30,5 +30,7 @@ It can be used for testing your ideas, training your deep learning models. Never
 It is recommended to find the answers for these questions, then proceed further
 _____________________________________________________________________________________________________
 
-
+### Download Videos
+The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
+Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EsYRaX2slJ1EjrMe-7SdZeQBB8dh3Wo_bHJrSAu8o5Uj0g?e=0XNfJe)
 
