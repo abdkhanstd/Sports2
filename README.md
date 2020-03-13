@@ -61,6 +61,17 @@ Here are some statistical details about the videos in the dataset.
 |badminton|13|1532|117.8|9333.5|6.1|play, drop, service|
 |Table tennis|10|1267|126.7|7786.8|6.1|play, drop, service|
 
+#### How to run the code?
+The training and testing codes can be found in the code folder. The code requires you have Keras 2 and TensorFlow 1 or greater installed. Please see the requirements.txt file. To ensure you're up to date, run:
+
+pip install -r requirements.txt
+
+Download the dataset and extract all the files without paths in the data folder. Next, create folders (still in the data folder) with mkdir train && mkdir test && mkdir sequences && mkdir checkpoints. You must also have ffmpeg installed in order to extract the video files. If ffmpeg isn't in your system path (ie. which ffmpeg doesn't return its path, or you're on an OS other than *nix), you'll need to update the path to ffmpeg in data/2_extract_files.py.
+
+Before you can run Train_IR_2.py, you need to extract features from the images with the CNN. This is done by running extract_features.py.
 
 #### Important note
 I did not upload the palyfield and view annotations intentionally. More details (code + results) will be added later.
+
+
+#### Special thanks to harvitronix for prviding a base code.
