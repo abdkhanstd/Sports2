@@ -63,4 +63,4 @@ Here are some statistical details about the videos in the dataset.
 
 
 #### Important note
-We did not provide all the annotations intentionally. More details (code + results) will be added later.
+I did not upload the palyfield and view annotations intentionally. More details (code + results) will be added later.
