@@ -60,3 +60,7 @@ Here are some statistical details about the videos in the dataset.
 |hockey|10|1652|165.2|11080.1|6.7|play, goal, foul|
 |badminton|13|1532|117.8|9333.5|6.1|play, drop, service|
 |Table tennis|10|1267|126.7|7786.8|6.1|play, drop, service|
+
+
+#### Important note
+We did not provide all the annotations intentionally. More details (code + results) will be added later.
