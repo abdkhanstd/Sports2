@@ -27,8 +27,6 @@ From the internet and TV channels.
 It can be used for testing your ideas, training your deep learning models. Nevertheless, Applications are vast. I have used it for broadcast sports video classification. The proposed model can accurately detect the type of sports in real-world scenarios. The reason for classifying the sports video is that different sports have different ruleset and have different views and situations. RICAPS have the state-of-the-art accuracy, we opened a field and closed it.
 
 **Hint for future work**: Using the sports category and playfield scenarios, automatic highlights can be generated.
-
-
 It is recommended to find the answers for these questions, then proceed further
 _____________________________________________________________________________________________________
 
