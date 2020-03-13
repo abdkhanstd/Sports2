@@ -30,10 +30,28 @@ From the internet and TV channels.
 It can be used for testing your ideas, training your deep learning models. Nevertheless, Applications are vast. I have used it for broadcast sports video classification. The proposed model can accurately detect the type of sports in real-world scenarios. The reason for classifying the sports video is that different sports have different ruleset and have different views and situations. RICAPS have the state-of-the-art accuracy, we opened a field and closed it.
 
 **Hint for future work**: Using the sports category and playfield scenarios, automatic highlights can be generated.
-It is recommended to find the answers for these questions, then proceed further
 _____________________________________________________________________________________________________
 
 ### Download Videos
 The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
 Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EsYRaX2slJ1EjrMe-7SdZeQBB8dh3Wo_bHJrSAu8o5Uj0g?e=0XNfJe)
 
+#### Statistical details about the dataset
+Here are some statistical details about the videos in the dataset.
+
+|Class|Total groups |Total videos|Average videos/group|Total group duration|Average video duration |Game action classes|
+| ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |
+|Cricket|13|1773|136.4|9785.1|5.5|batting, bowling, run, out, event|
+|Football|10|1613|161.3|11693.1|7.2|play, goal, foul|
+|Soccer|14|1554|111.0|14254.3|9.2|play, goal, foul|
+|Basketball|12|1790|149.2|14186.2|7.9|play, goal, foul|
+|Baseball|10|1619|161.9|12063.7|7.5|batting, bowling, run, out, event|
+|Rugby|10|1616|161.6|9346.3|5.8|play, goal, foul|
+|Tennis|12|2062|171.8|11558.3|5.6|play, drop, service|
+|Handball|11|1766|160.5|12468.0|7.1|play, goal, foul|
+|Snooker|10|1376|137.6|8727.3|6.3|shot, pocket, aiming|
+|Volleyball|10|1654|165.4|12944.2|7.8|play, drop, service|
+|Ice hockey|10|1751|175.1|10510.1|6.0|play, goal, foul|
+|hockey|10|1652|165.2|11080.1|6.7|play, goal, foul|
+|badminton|13|1532|117.8|9333.5|6.1|play, drop, service|
+|Table tennis|10|1267|126.7|7786.8|6.1|play, drop, service|
