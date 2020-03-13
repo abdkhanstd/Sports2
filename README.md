@@ -33,7 +33,7 @@ It can be used for testing your ideas, training your deep learning models. Never
 _____________________________________________________________________________________________________
 #### About the dataset
 SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer.
-
+![Some sample along with sports caetagory, and playfield scenario/game action](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/samples.png)
 
 #### Download Videos
 The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
