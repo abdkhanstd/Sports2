@@ -20,6 +20,9 @@ I won't explain amateur videos here, such videos usually have an “Egocentric v
 
 
 On the other hand, Broadcast sports videos capture the same point from multiple cameras at different angles and astonishingly none of the view stays for more than a couple of seconds. Scientifically speaking, there is no continuity within the frames. See the figure below and try to visualize it.
+
+![Selected frame samples from SP-2 dataset (first two rows) and UCF101](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/cam_views.jpg)
+
 #### Where did you gather the videos?
 From the internet and TV channels. 
 
