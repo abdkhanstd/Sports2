@@ -32,7 +32,9 @@ It can be used for testing your ideas, training your deep learning models. Never
 **Hint for future work**: Using the sports category and playfield scenarios, automatic highlights can be generated.
 _____________________________________________________________________________________________________
 #### About the dataset
-SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer.
+SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer. The following figure shows Some sample along with sports caetagory, and playfield scenario/game action.
+
+
 ![Some sample along with sports caetagory, and playfield scenario/game action](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/samples.png)
 
 #### Download Videos
