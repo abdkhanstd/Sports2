@@ -41,11 +41,13 @@ ________________________________________________________________________________
 #### About the dataset
 SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer. The following figure shows Some sample along with sports category, and playfield scenario/game action.
 
+The videos in sports action categories have a minimum of 10 groups to 14 groups, where each group can consist of 150 videos (on average) of relevant sport game action. The videos from the same group may share some common features, such as similar background, similar viewpoint, etc. as they were cropped from the same season or same long duration video of sports.
+
 
 ![Some sample along with sports category, and playfield scenario/game action](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/samples.png)
 
 #### Download Videos
-The videos in this dataset are approximate 10 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
+The videos in this dataset are approximate 10 Gigabytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
 Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EgojmAd-CoxLqTWhDRFeN-kBH98O6d-hHhyTD8BM6KPH5A?e=MVe4AY)
 
 #### Statistical details about the dataset
@@ -70,7 +72,8 @@ Here are some statistical details about the videos in the dataset.
 
 
 #### Test and Train List
-Test and traing lists can be found in the "List" folder.
+Test and train lists can be found in the "List" folder. All of these lists were generated randomly. It is very important to keep the videos belonging to the same group separate in training and testing. Since the videos in a group are obtained from the same sports season and long duration sports video, sharing videos from same group in training and testing sets would give high performance and the trained model would not generalize properly.
+
 
 
 #### How to run the code?
