@@ -1,5 +1,5 @@
 
-# SP-2 Dataset and RICAPS for Sports video generation classification
+# SP-2 Dataset and RICAPS for Broadcast Sports video classification
 You will find two things in this repository:
 
 1. Material and details for SP-2 dataset
