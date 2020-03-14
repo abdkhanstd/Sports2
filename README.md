@@ -93,6 +93,5 @@ I did not upload the palyfield and view annotations intentionally. More details 
 
 
 #### Acknowledgment
-Thanks to Mr Waqas Amin, Tahseen khan (and other sports lovers) who helped in , locating, cropping and annotating the videos.
-Special thanks to harvitronix for providing the base code.
+Thanks to Mr. Waqas Amin, Tahseen Khan, and other sports lovers who helped in, locating, cropping and annotating the videos.  Moreover, thanks to harvitronix for providing the base code.
 
