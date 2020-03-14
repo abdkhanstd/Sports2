@@ -1,4 +1,10 @@
+
 # SP-2 Dataset and RICAPS for Sports video generation classification
+You will find two things in this repository:
+
+1. Material and details for SP-2 dataset
+1. RICAPS implimentation and code guide
+
 A large number of video content is uploaded to video-sharing platforms such as YouTube, Facebook, and Youku. These videos belong to numerous categories such as sports, music, animations, and documentaries. Throughout these video classifications, sports videos are considered as one of the richest sources of entertainment. Sports enthusiasts want to keep themselves updated on the latest happenings. This desire has opened a challenging research direction known as sports video summarization. These highlights contain the most exciting segments of sports videos. Such highlights help sports enthusiasts to keep themselves updated in a short period. Bloggers and broadcasters spend a huge sum of time, money and human efforts on manual extraction of highlights from raw sports videos. Sports video highlight generation is a subclass of video summarization which may be viewed as a subclass of sports video analysis.
 
 
@@ -70,7 +76,7 @@ Test and traing lists can be found in the "List" folder.
 #### How to run the code?
 The training and testing codes can be found in the code folder. The code requires you have Keras 2 and TensorFlow 1 or greater installed. Please see the requirements.txt file. To ensure you're up to date, run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Download the dataset and extract all the files without paths in the data folder. Next, create folders (still in the data folder) with mkdir train && mkdir test && mkdir sequences && mkdir checkpoints. You must also have ffmpeg installed in order to extract the video files. If ffmpeg isn't in your system path (ie. which ffmpeg doesn't return its path, or you're on an OS other than *nix), you'll need to update the path to ffmpeg in data/2_extract_files.py.
 
