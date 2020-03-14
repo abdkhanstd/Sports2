@@ -13,6 +13,7 @@ The more unfortunate thing is that none of the researches categorizes broadcast 
 #### Previous datasets related to Sports
 Yes, there are datasets related to sports such as Youtube 8M, but ask your self  “Do you want to work on 8 million videos?”, “ How can you trust the annotation of 8M videos which were generated using user tags”. “How can people in collect the dataset where youtube is not accessible or internet is not reliable?”. I don’t know about others, but I don’t have the resources to work on this dataset.
 Some may even say that UCF101 and HMDB51 have a sports category. Yes, it has a sports category. But ask your self, does it cover the broadcast sports category?  Dose these datasets cover the internal game actions or views?
+More specificall, none of these datasets differnciate between street sports and brodcasted sports game.
 
 
 #### What is the difference between amateur sports video and professionally broadcast videos?
