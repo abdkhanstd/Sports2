@@ -3,7 +3,7 @@
 You will find two things in this repository:
 
 1. Material and details for SP-2 dataset
-1. RICAPS implimentation and code guide
+1. RICAPS implementation and code guide
 
 A large number of video content is uploaded to video-sharing platforms such as YouTube, Facebook, and Youku. These videos belong to numerous categories such as sports, music, animations, and documentaries. Throughout these video classifications, sports videos are considered as one of the richest sources of entertainment. Sports enthusiasts want to keep themselves updated on the latest happenings. This desire has opened a challenging research direction known as sports video summarization. These highlights contain the most exciting segments of sports videos. Such highlights help sports enthusiasts to keep themselves updated in a short period. Bloggers and broadcasters spend a huge sum of time, money and human efforts on manual extraction of highlights from raw sports videos. Sports video highlight generation is a subclass of video summarization which may be viewed as a subclass of sports video analysis.
 
@@ -17,13 +17,13 @@ As we all know the Deep learning framework requires a huge amount of data for be
 The more unfortunate thing is that none of the researches categorizes broadcast sports video as a different class of videos i.e. every research considers amateur outdoor videos as and broadcast sports videos the same. Please mind that there is a huge difference between the nature of these videos. unfortunately, no dataset is publicly available. 
 
 #### Previous datasets related to Sports
-Yes, there are datasets related to sports such as Youtube 8M, but ask your self  “Do you want to work on 8 million videos?”, “ How can you trust the annotation of 8M videos which were generated using user tags”. “How can people in collect the dataset where youtube is not accessible or internet is not reliable?”. I don’t know about others, but I don’t have the resources to work on this dataset.
-Some may even say that UCF101 and HMDB51 have a sports category. Yes, it has a sports category. But ask your self, does it cover the broadcast sports category?  Dose these datasets cover the internal game actions or views?
-More specificall, none of these datasets differnciate between street sports and brodcasted sports game.
+Yes, there are datasets related to sports such as Youtube 8M, but ask yourself “Do you want to work on 8 million videos?”, “How can you trust the annotation of 8M videos which were generated using user tags”. “How can people in collect the dataset where youtube is not accessible or internet is not reliable?”. I don’t know about others, but I don’t have the resources to work on this dataset.
+Some may even say that UCF101 and HMDB51 have a sports category. Yes, it has a sports category. But ask yourself, does it cover the broadcast sports category?  Dose these datasets cover the internal game actions or views?
+More specifically, none of these datasets differentiate between street sports and broadcasted sports game.
 
 
 #### What is the difference between amateur sports video and professionally broadcast videos?
-I won't explain amateur videos here, such videos usually have an “Egocentric vision” or “first-person vision”. See !https://en.wikipedia.org/wiki/Egocentric_vision for details.
+I won't explain amateur videos here; such videos usually have an “Egocentric vision” or “first-person vision”. See !https://en.wikipedia.org/wiki/Egocentric_vision for details.
 
 
 On the other hand, Broadcast sports videos capture the same point from multiple cameras at different angles and astonishingly none of the view stays for more than a couple of seconds. Scientifically speaking, there is no continuity within the frames. See the figure below and try to visualize it.
@@ -39,13 +39,13 @@ It can be used for testing your ideas, training your deep learning models. Never
 **Hint for future work**: Using the sports category and playfield scenarios, automatic highlights can be generated.
 _____________________________________________________________________________________________________
 #### About the dataset
-SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer. The following figure shows Some sample along with sports caetagory, and playfield scenario/game action.
+SP-2 dataset contains above 23,000 video clips of various durations. These video clips are extracted from full length broadcasted sports videos. The sports class, playfield scenario, and game actions are annotated accordingly (see table below for game actions). These videos belong to fourteen different categories of sports i.e. snooker, volleyball, ice hockey, basketball, baseball, rugby, tennis, handball, hockey, badminton, table tennis, cricket, football, and soccer. The following figure shows Some sample along with sports category, and playfield scenario/game action.
 
 
-![Some sample along with sports caetagory, and playfield scenario/game action](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/samples.png)
+![Some sample along with sports category, and playfield scenario/game action](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/samples.png)
 
 #### Download Videos
-The videos in this dataset are approximate 20 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
+The videos in this dataset are approximate 10 GigaBytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
 Videos can be downloaded from [here](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EgojmAd-CoxLqTWhDRFeN-kBH98O6d-hHhyTD8BM6KPH5A?e=MVe4AY)
 
 #### Statistical details about the dataset
@@ -89,4 +89,4 @@ Will be added soon
 I did not upload the palyfield and view annotations intentionally. More details (code + results) will be added later.
 
 
-#### Special thanks to harvitronix for prviding a base code.
+#### Special thanks to harvitronix for providing a base code.
