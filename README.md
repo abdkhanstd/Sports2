@@ -81,7 +81,7 @@ The training and testing codes can be found in the code folder. The code require
 Download the dataset and extract all the files without paths in the data folder. Next, create folders (still in the data folder) with mkdir train && mkdir test && mkdir sequences && mkdir checkpoints. You must also have ffmpeg installed in order to extract the video files. If ffmpeg isn't in your system path (ie. which ffmpeg doesn't return its path, or you're on an OS other than *nix), you'll need to update the path to ffmpeg in `data/2_extract_files.py`
 
 Before you can run `Train_IR_2.py`, you need to extract features from the images with the CNN. This is done by running:
-` python extract_features.py`
+` python extract_features_IR.py`
 #### How to cite?
 Will be added soon
 
