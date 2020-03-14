@@ -26,7 +26,7 @@ More specifically, none of these datasets differentiate between street sports an
 I won't explain amateur videos here; such videos usually have an “Egocentric vision” or “first-person vision”. See https://en.wikipedia.org/wiki/Egocentric_vision for details.
 
 
-On the other hand, Broadcast sports videos capture the same point from multiple cameras at different angles and astonishingly none of the view stays for more than a couple of seconds. Scientifically speaking, there is no continuity within the frames. See the figure below and try to visualize it.
+On the other hand, Broadcast sports videos capture the same point from multiple cameras at different angles and astonishingly none of the view stays for more than a couple of seconds. Scientifically speaking, there is no continuity within the frames. See the figure below and try to visualize it. If we closely look at the first row of the figure below, it can be noticed that the camera is switching, the zoom and pan levels are changing. In the second row, it can be observed that the camera is moving along with the players while zooming, even switching at some points.
 
 ![Selected frame samples from SP-2 dataset (first two rows) and UCF101](https://raw.githubusercontent.com/abdkhanstd/Sports2/master/Figures/cv.png)
 
