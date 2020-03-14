@@ -77,7 +77,7 @@ Test and train lists can be found in the "List" folder. All of these lists were 
 
 
 #### How to run the code?
-The training and testing codes can be found in the code folder. The code requires you have Keras 2 and TensorFlow 1 or greater installed. Please see the requirements.txt file. To ensure you're up to date, run:
+The training and testing codes can be found in the code folder. The code requires you have Keras 2 and TensorFlow 1 or greater installed. Please see the `requirements.txt` file. To ensure you're up to date, run:
 
 `pip install -r requirements.txt`
 
