@@ -61,7 +61,7 @@ subprocess32==3.5.3
 tensorboard==1.8.0
 tensorflow==1.8.0
 tensorflow-estimator==1.13.0
-tensorflow-gpu==1.8.0
+tensorflow-gpu==1.15.4
 termcolor==1.1.0
 tqdm==4.31.1
 Werkzeug==0.15.2
