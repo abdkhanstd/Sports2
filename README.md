@@ -86,7 +86,7 @@ Download the dataset and extract all the files without paths in the data folder.
 Before you can run `Train_IR_2.py`, you need to extract features from the images with the CNN. This is done by running:
 ` python extract_features_IR.py`
 #### How to cite?
-Will be added soon
+Abdullah Aman Khan, Saifullah Tumrani, Chunlin Jiang, and Jie Shao, "RICAPS: Residual Inception and Cascaded Capsule Network for Broadcast Sports Video Classification", In Proceedings of the 2nd ACM International Conference on Multimedia in Asia (MM Asia), March 7-9 2021, Singapore.
 
 #### Important note
 I did not upload the palyfield and view annotations intentionally. More details (code + results) will be added later.
