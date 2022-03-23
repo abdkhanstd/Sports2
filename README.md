@@ -50,7 +50,7 @@ The videos in sports action categories have a minimum of 10 groups to 14 groups,
 The videos in this dataset are approximate 10 Gigabytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
 Videos can be downloaded from [here.](http://abdkhan.uk.to:9090/SP2.zip)
 
-If the above link dosnt work, please bear in mind that there is no hosting service available to me right now. Moreover, due to purchasing limitation, I cannot buy or maintain a hosting server. Please send an email: abdkhan@163.com.
+If the download link dosnt work, please bear in mind that there is no hosting service available to me right now. Moreover, due to purchasing limitation, I cannot buy or maintain a hosting server. Please send an email: abdkhan@163.com and propose how this dataset can be shared.
 
 #### Statistical details about the dataset
 Here are some statistical details about the videos in the dataset.
