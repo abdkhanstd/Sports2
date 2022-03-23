@@ -48,7 +48,7 @@ The videos in sports action categories have a minimum of 10 groups to 14 groups,
 
 #### Download Videos
 The videos in this dataset are approximate 10 Gigabytes in size with varying durations. These videos are shared via Microsoft OneDrive business account (other mirrors can be arranged on demand. Please refer to contact info.)
-Videos can be downloaded from [here.](https://stduestceducn-my.sharepoint.com/:f:/g/personal/201714060114_std_uestc_edu_cn/EgojmAd-CoxLqTWhDRFeN-kBH98O6d-hHhyTD8BM6KPH5A?e=MVe4AY)
+Videos can be downloaded from [here.](http://abdkhan.uk.to:9090/SP2.zip)
 
 #### Statistical details about the dataset
 Here are some statistical details about the videos in the dataset.
@@ -94,4 +94,5 @@ I did not upload the palyfield and view annotations intentionally. More details 
 
 #### Acknowledgment
 Thanks to Mr. Waqas Amin, Tahseen Khan, and other sports lovers who helped in, locating, cropping and annotating the videos.  Moreover, thanks to harvitronix for providing the base code.
+Please note that the V2 of SP2 data set has some slight changes.
 
