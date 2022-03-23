@@ -96,5 +96,5 @@ I did not upload the palyfield and view annotations intentionally. More details 
 Thanks to Mr. Waqas Amin, Tahseen Khan, and other sports lovers who helped in, locating, cropping and annotating the videos.  Moreover, thanks to harvitronix for providing the base code.
 
 
-#### Please note that the V2 of SP2 data set has some slight changes (Please vistit SPNet repository)
+Please note that the V2 of SP2 data set has some slight changes (Please visit SPNet repository)
 
