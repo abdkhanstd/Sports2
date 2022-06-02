@@ -24,7 +24,7 @@ gpustat==0.6.0
 greenlet==0.4.15
 grpcio==1.20.1
 h5py==2.9.0
-html5lib==0.9999999
+html5lib==0.99999999
 itsdangerous==1.1.0
 Jinja2==2.10.3
 Keras==2.2.4
